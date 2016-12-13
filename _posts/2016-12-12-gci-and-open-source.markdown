@@ -31,5 +31,5 @@ I'm trying to contribute as much as I can. So far, I have practiced many of my s
 
 To conclude, I'm looking forward to the start of our Christmas vacation, so I have more time to contribute and help others, and I hope that in the future I will be able to join this contest again...as a mentor!
 
-![Google Code-In](/images/gci.jpg)
-![FOSSASIA](/images/fossasia.png)
+![Google Code-In](/blog/images/gci.jpg)
+![FOSSASIA](/blog/images/fossasia.png)
