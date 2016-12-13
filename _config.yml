@@ -1,0 +1,19 @@
+title: Oana's GCI blog
+email: to.oanarosca@gmail.com
+description: > # This means to ignore newlines until "baseurl:"
+  Science enthusiast, mainly interested in Computer Science and its wide range of applications.
+  2nd time Google Code-In student.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://oanarosca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: oanarosca12
+github_username:  oanarosca
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jemoji
+exclude:
+  - Gemfile
+  - Gemfile.lock
